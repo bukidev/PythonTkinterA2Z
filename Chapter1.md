@@ -13,11 +13,11 @@ Once you have installed Python, you can start writing your first Python program.
 
 Let's start with a simple program that prints "Hello, World!" to the console:
 
-print("Hello, World!")
+`print("Hello, World!")`
 
 To run the program, save the code in a file named "hello.py" and open a terminal or command prompt. Navigate to the directory where you saved the file and enter the following command:
 
-python hello.py
+``python hello.py``
 
 You should see the output "Hello, World!" printed to the console.
 
@@ -28,9 +28,9 @@ Python also uses indentation to define code blocks. Code blocks are sections of 
 
 Here's an example of a function definition in Python:
 
-def add_numbers(a, b):
+``def add_numbers(a, b):
     result = a + b
-    return result
+    return result``
     
 In this example, the code block inside the function definition is indented to show that it belongs to the function. The function takes two arguments a and b, adds them together, and returns the result.
 
