@@ -5,3 +5,23 @@ This book is designed for full-time blue-collar workers who have no prior experi
 The book includes a series of practical projects that enable readers to apply the concepts they learn to real-world scenarios. These projects range from simple tasks like writing a program to calculate the area of a rectangle to more complex tasks like building a GUI application to manage a stock portfolio.
 
 The book is designed to be used by readers who have only one hour a day to devote to learning Python programming. Each chapter is short and to the point, and includes practice exercises and review questions to help readers reinforce their learning. By the end of the book, readers will have a solid understanding of Python programming and be able to develop their own Python applications.
+
+## Chapter Outline: ##
+
+Introduction to Python programming
+Basic data types and control structures
+Functions and modules
+File handling
+Object-oriented programming
+Tkinter basics
+Creating GUI applications with Tkinter
+Practical projects
+
+### Project examples: ###
+
+A program to calculate the area of a rectangle
+A program to convert temperatures from Fahrenheit to Celsius
+A program to generate a random password
+A program to download images from a website
+A program to manage a stock portfolio with a Tkinter GUI
+I hope this idea helps you get started on writing your book!
