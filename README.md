@@ -8,20 +8,20 @@ The book is designed to be used by readers who have only one hour a day to devot
 
 ## Chapter Outline: ##
 
-Introduction to Python programming
-Basic data types and control structures
-Functions and modules
-File handling
-Object-oriented programming
-Tkinter basics
-Creating GUI applications with Tkinter
-Practical projects
+- Introduction to Python programming
+- Basic data types and control structures
+- Functions and modules
+- File handling
+- Object-oriented programming
+- Tkinter basics
+- Creating GUI applications with Tkinter
+- Practical projects
 
 ### Project examples: ###
 
-A program to calculate the area of a rectangle
-A program to convert temperatures from Fahrenheit to Celsius
-A program to generate a random password
-A program to download images from a website
-A program to manage a stock portfolio with a Tkinter GUI
-I hope this idea helps you get started on writing your book!
+- A program to calculate the area of a rectangle
+- A program to convert temperatures from Fahrenheit to Celsius
+- A program to generate a random password
+- A program to download images from a website
+- A program to manage a stock portfolio with a Tkinter GUI
+- I hope this idea helps you get started on writing your book!
