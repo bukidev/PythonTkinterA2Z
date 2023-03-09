@@ -1,5 +1,4 @@
-# Python Programming for Blue Collar Workers #
-## **From Basics to Advanced with Practical Projects using Tkinter** ##
+# Python Programming for Blue Collar Workers : From Basics to Advanced with Practical Projects using Tkinter #
 
 This book is designed for full-time blue-collar workers who have no prior experience in programming but want to learn Python programming from scratch. The book is written in a simple language and covers all the fundamental concepts of Python programming, including data types, control structures, functions, modules, file handling, and object-oriented programming. The book also includes a chapter on Tkinter, a popular Python GUI toolkit, and explains how to create interactive graphical user interfaces using Tkinter.
 
