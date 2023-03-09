@@ -28,9 +28,9 @@ Python also uses indentation to define code blocks. Code blocks are sections of 
 
 Here's an example of a function definition in Python:
 
-``def add_numbers(a, b):
+    def add_numbers(a, b):
     result = a + b
-    return result``
+    return result
     
 In this example, the code block inside the function definition is indented to show that it belongs to the function. The function takes two arguments a and b, adds them together, and returns the result.
 
